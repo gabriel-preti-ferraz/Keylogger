@@ -5,7 +5,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/keylogger?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/keylogger?style=for-the-badge)
 
-Veja as imagens <a href="imagens.html">clicando aqui<a>
+Veja as imagens <a href="https://gabriel-preti-ferraz.github.io/Keylogger/imagens">clicando aqui<a>
 
 > Repositório para fins educacionais. Utilize por sua conta e risco.
 
