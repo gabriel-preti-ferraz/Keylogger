@@ -9,7 +9,7 @@ Veja as imagens <a href="https://gabriel-preti-ferraz.github.io/Keylogger/imagen
 
 > Repositório para fins educacionais. Utilize por sua conta e risco.
 
-### Ajustes e melhorias
+## Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
